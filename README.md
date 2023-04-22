@@ -95,7 +95,7 @@ except  FileNotFoundError:
         
 
 """ 
-I eventually couldn't work out how to use try/except code as used if/else, however mentors helped me with understanding of how to work with the files.
+Also possible:
 
 with open ("equation.txt", "r") as file: 
         if open_file == "equation.txt":
